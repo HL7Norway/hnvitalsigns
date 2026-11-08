@@ -24,3 +24,20 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Visual Studio / IDE
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Binaries / releases (distribuídos via GitHub Releases, não versionados no git)
+*.zip
+
+# Node / package caches
+node_modules/
+package-lock.json
+
+# OS
+Thumbs.db
